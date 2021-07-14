@@ -1,0 +1,7 @@
+{
+    "env": {
+        "USER": "adar",
+        "DB_NAME": "todos-8200",
+        "DB_PASSWORD": "239738416"
+    }
+}
